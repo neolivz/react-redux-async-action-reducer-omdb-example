@@ -1,0 +1,15 @@
+{
+    "extends": [
+        "tslint-config-standard"
+    ],
+    "rules": {
+        "space-before-function-paren": false,
+        "trailing-comma": [
+            true
+        ],
+        "ter-indent": [true, "tab"],
+        "one-variable-per-declaration": [
+            false
+        ]
+    }
+}

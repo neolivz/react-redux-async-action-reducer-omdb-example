@@ -1,0 +1,11 @@
+export type FETCH_SEARCH_RESULTS = 'FETCH_SEARCH_RESULTS'
+export const FETCH_SEARCH_RESULTS = 'FETCH_SEARCH_RESULTS'
+
+export type ADD_MOVIE = 'ADD_MOVIE'
+export const ADD_MOVIE = 'ADD_MOVIE'
+
+export type REMOVE_MOVIE = 'SAVE_MOVIE'
+export const REMOVE_MOVIE = 'SAVE_MOVIE'
+
+export type LOAD_MOVIES = 'LOAD_MOVIES'
+export const LOAD_MOVIES = 'LOAD_MOVIES'
